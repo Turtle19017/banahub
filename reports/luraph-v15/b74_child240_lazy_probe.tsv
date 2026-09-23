@@ -1,0 +1,13 @@
+pc	overlay	value	type	status
+706	P	2532583320	number	ok
+706	C	-1	number	ok
+706	w	1996232740	number	ok
+706	t	GetTangentOnCurve	string	ok
+707	P	745644729	number	ok
+707	C	GetChildren	string	ok
+707	w	3147992197	number	ok
+707	t	IsStudio	string	ok
+709	P	-10	number	ok
+709	C	GetChildren	string	ok
+709	w	False	boolean	ok
+709	t	readu8 OOB 339380279	error	q_oracle_error
